@@ -494,7 +494,7 @@ function Header() {
         "header",
         { className: "header" },
         _react2.default.createElement("img", {
-            src: "./images/meme-logo.png",
+            src: "../images/meme-logo.png",
             className: "header--image"
         }),
         _react2.default.createElement(
